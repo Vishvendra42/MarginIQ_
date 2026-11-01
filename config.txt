@@ -1,1 +1,1 @@
-# Config file for MarginIQ
+# Config for MarginIQ
